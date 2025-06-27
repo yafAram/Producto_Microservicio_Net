@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DsiCode.Micro.Product.API.props" />
+</Project>

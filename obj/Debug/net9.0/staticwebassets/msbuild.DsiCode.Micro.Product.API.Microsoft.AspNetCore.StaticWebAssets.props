@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\28a35814-59ae-449e-aa75-143e83aaa868.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DsiCode.Micro.Product.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DsiCode.Micro.Product.API</BasePath>
+      <RelativePath>ProductImages/28a35814-59ae-449e-aa75-143e83aaa868.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bhqe3qcc6a</Fingerprint>
+      <Integrity>cTcGLt2TX97AC4bU3DO9hU4Th6nDfhBnpOQ48Oo5rCY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\28a35814-59ae-449e-aa75-143e83aaa868.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\8366479e-d8aa-491b-9afe-0dacfcfa9fdb.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DsiCode.Micro.Product.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DsiCode.Micro.Product.API</BasePath>
+      <RelativePath>ProductImages/8366479e-d8aa-491b-9afe-0dacfcfa9fdb.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y5e5p80jzr</Fingerprint>
+      <Integrity>9m+HEh+7SKk3cWG01jz72QWNY6RK9WUsWgZkKKqNOz0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\8366479e-d8aa-491b-9afe-0dacfcfa9fdb.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\e1e47b17-5202-4e3b-9fef-dfa40ba6e508.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DsiCode.Micro.Product.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DsiCode.Micro.Product.API</BasePath>
+      <RelativePath>ProductImages/e1e47b17-5202-4e3b-9fef-dfa40ba6e508.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9gtsxjcv8u</Fingerprint>
+      <Integrity>5w5lqlOe8dnZLPfSqTY0p7x4UCcmzhe5sIFwHEiceK8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\e1e47b17-5202-4e3b-9fef-dfa40ba6e508.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\fe67116a-f738-47fa-8609-c48bc0075225.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DsiCode.Micro.Product.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DsiCode.Micro.Product.API</BasePath>
+      <RelativePath>ProductImages/fe67116a-f738-47fa-8609-c48bc0075225.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6m4vlebs9z</Fingerprint>
+      <Integrity>4vnQQpe6sN+LoQIf5r7Iv64PDbHvIk/V0z8oPCy2baI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\fe67116a-f738-47fa-8609-c48bc0075225.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

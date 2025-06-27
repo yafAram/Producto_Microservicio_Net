@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DsiCode.Micro.Product.API.props" />
+</Project>

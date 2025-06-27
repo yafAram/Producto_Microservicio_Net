@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bengi\\Documents\\Octavo ingeneria carpetas\\Gallardo\\DsiCode.Micro.Product.API\\wwwroot\\ProductImages\\28a35814-59ae-449e-aa75-143e83aaa868.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\28a35814-59ae-449e-aa75-143e83aaa868.webp"
+    },
+    {
+      "Id": "C:\\Users\\bengi\\Documents\\Octavo ingeneria carpetas\\Gallardo\\DsiCode.Micro.Product.API\\wwwroot\\ProductImages\\8366479e-d8aa-491b-9afe-0dacfcfa9fdb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8366479e-d8aa-491b-9afe-0dacfcfa9fdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bengi\\Documents\\Octavo ingeneria carpetas\\Gallardo\\DsiCode.Micro.Product.API\\wwwroot\\ProductImages\\e1e47b17-5202-4e3b-9fef-dfa40ba6e508.jpeg",
+      "PackagePath": "staticwebassets\\ProductImages\\e1e47b17-5202-4e3b-9fef-dfa40ba6e508.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bengi\\Documents\\Octavo ingeneria carpetas\\Gallardo\\DsiCode.Micro.Product.API\\wwwroot\\ProductImages\\fe67116a-f738-47fa-8609-c48bc0075225.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\fe67116a-f738-47fa-8609-c48bc0075225.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DsiCode.Micro.Product.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DsiCode.Micro.Product.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DsiCode.Micro.Product.API.props",
+      "PackagePath": "build\\DsiCode.Micro.Product.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DsiCode.Micro.Product.API.props",
+      "PackagePath": "buildMultiTargeting\\DsiCode.Micro.Product.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DsiCode.Micro.Product.API.props",
+      "PackagePath": "buildTransitive\\DsiCode.Micro.Product.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
